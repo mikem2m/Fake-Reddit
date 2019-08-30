@@ -9,7 +9,7 @@ Tools: Django | Python3 | BootStrap
 
 **How the app stores user information:**
 
-The Fake-Reddit is currently relying on the Django-admin to store and retrive the following informations:
+The Fake-Reddit is currently relying on the Django-admin interface to store and retrive the following informations:
 1. Registered User
 2. Posts
 3. Sub-reddits / Groups
