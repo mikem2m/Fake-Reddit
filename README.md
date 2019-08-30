@@ -2,7 +2,7 @@
 **ABOUT FAKE-REDDIT**
 *******************************
 
-A fully functional back-end project where user could sign up , join groups or create a completely new one! Just like Reddit. The "Fake Reddit" Website is being hosted here:
+A fully functional back-end project where user could sign up , join groups or create a completely new one! Just like Reddit. The "Fake Reddit" Web application is being hosted here:
 http://www.fakeredditfake.club/
 
 Tools: Django | Python3 | BootStrap
